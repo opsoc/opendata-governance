@@ -10,13 +10,13 @@ Open Data Governance Project is gathering a [List of Global Open Data Portals](/
 
 Open data, as defined by David Eaves and Tim Berners-Lee, emphasizes data that is freely accessible, usable, and shareable by anyone for any purpose, with specific criteria to ensure its openness and utility.
 
-David Eaves, an Associate Professor at the UCL Institute for Innovation and Public Purpose, outlined the Three Laws of Open Government Data in 2009, which are foundational for open data principles:
+David Eaves, an Associate Professor at the UCL Institute for Innovation and Public Purpose, outlined the [Three Laws of Open Government Data](https://eaves.ca/2009/09/30/three-law-of-open-government-data/) in 2009, which are foundational for open data principles:
 
 * **Discoverable**: Data must be easily found, ideally through web indexing or "spidering," ensuring it can be located by users or systems.
 * **Accessible**: Data should be available in open, machine-readable formats (e.g., CSV, JSON) to enable engagement and processing by software or individuals.
 * **Reusable**: Data must be licensed under frameworks that allow repurposing without legal restrictions, empowering users to adapt it for various applications.
 
-Tim Berners-Lee, the inventor of the World Wide Web and co-founder of the Open Data Institute, defined open data as "data that is available for everyone to access, use, and share." He introduced the 5-Star Open Data scheme to evaluate and improve data openness and usability:
+Tim Berners-Lee, the inventor of the World Wide Web and co-founder of the Open Data Institute, defined open data as "data that is available for everyone to access, use, and share." He introduced the [5-Star Open Data](https://5stardata.info/en/) scheme to evaluate and improve data openness and usability:
 
 * ★: Data is available on the web in any format under an open license.
 * ★★: Data is structured (e.g., Excel instead of a scanned image).
@@ -28,4 +28,4 @@ Both emphasize that open data should be structured, machine-readable, and openly
 
 ## Project Leaders
 
-* Sammy Fung (Project Founder) (Founder of Open Platform Society)
+* [Sammy Fung](https://sammy.hk) (Project Founder) (Founder of [Open Platform Society](https://opsoc.org)))
