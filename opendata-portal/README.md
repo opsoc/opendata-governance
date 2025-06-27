@@ -6,6 +6,9 @@ This is a list of open data portal of ccTLD[^1] countries and regions.
 |Country/Region|ccLTD|Open Data Portal Link|
 |-|-|-|
 |Hong Kong|hk|https://data.gov.hk/en/
+|Taiwan|tw|https://data.gov.tw/en|
+|United Kingdom|uk|https://www.data.gov.uk/|
+|United States of America|us|https://data.gov/|
 
 ## Remarks
 

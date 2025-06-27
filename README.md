@@ -4,7 +4,7 @@ The Open Data Governance Project, launched by the Open Platform Society (OPSoc) 
 
 ## List of Global Open Data Portals
 
-Open Data Governance Project is gathering a [List of Global Open Data Portals](/opendata-portal/). Contributing is welcome and can be made via GitHub [issues](https://github.com/opsoc/opendata-governance/issues).
+Open Data Governance Project is gathering a [List of Global Open Data Portals](/opendata-portal/). Contributions & Inputs are welcome and can be made via GitHub [issues](https://github.com/opsoc/opendata-governance/issues).
 
 ## What is Open Data ?
 
