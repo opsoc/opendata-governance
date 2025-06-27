@@ -30,59 +30,28 @@ This is a list of open data portal of ccTLD[^1] countries and regions.
 |Luxembourg|lu|https://data.public.lu/en/|
 |Macau|mo|https://data.gov.mo/|
 |Malaysia|my|https://data.gov.my/|
-|Maldives|mv||
-|Malta|mt||
-|Mexico|mx||
-|Monaco|mc||
-|Mongolia|mn||
-|Morocco|ma||
-|Myanmar|mm||
-|Nepal|np||
-|Netherlands|nl||
-|New Zealand|nz||
-|Nigeria|ng||
-|Norway|no||
-|Pakistan|pk||
-|Palestine|ps||
-|Panama|pa||
-|Paraguay|py||
-|People's Republic of China|cn||
-|Peru|pe||
-|Philippines|ph||
-|Poland|pl||
-|Portugal|pt||
-|Puerto Rico|pr||
-|Qatar|qa||
-|Romania|ro||
-|Russia|ru||
-|Saudi Arabia|sa||
-|Senegal|sn||
-|Serbia|rs||
-|Singapore|sg||
-|Slovakia|sk||
-|Slovenia|si||
-|South Africa|za||
-|South Korea|kr||
-|Spain|es||
-|Sri Lanka|lk||
-|Suriname|sr||
-|Switzerland|ch||
-|Syria|sy||
+|Maldives|mv|https://beta.data.gov.mv/|
+|Malta|mt|https://portal.data.gov.mt/|
+|Mongolia|mn|https://www.opendata.gov.mn|
+|Morocco|ma|https://data.gov.ma/|
+|Nepal|np|https://opendatanepal.com/|
+|Netherlands|nl|https://data.overheid.nl/en|
+|New Zealand|nz|https://www.data.govt.nz/|
+|Norway|no|https://data.norge.no/nb|
+|Pakistan|pk|https://stage.nodp.gov.pk/|
+|Philippines|ph|https://data.gov.ph/index/home|
+|Poland|pl|https://dane.gov.pl/en|
+|Portugal|pt|https://dados.gov.pt/en/|
+|Qatar|qa|https://www.data.gov.qa/pages/homepage/|
+|Romania|ro|https://data.gov.ro/en|
+|Singapore|sg|https://data.gov.sg/|
+|South Korea|kr|https://www.data.go.kr/en/index.do|
+|Spain|es|https://datos.gob.es/en|
 |Taiwan|tw|https://data.gov.tw/en|
-|Thailand|th||
-|Tunisia|tn||
-|Turkey|tr||
-|Uganda|ug||
-|Ukraine|ua||
-|United Arab Emirates|ae||
+|Ukraine|ua|https://data.gov.ua/en/|
+|United Arab Emirates|ae|https://bayanat.ae/en|
 |United Kingdom|uk|https://www.data.gov.uk/|
 |United States of America|us|https://data.gov/|
-|Uruguay|uy||
-|Vatican City|va||
-|Venezuela|ve||
-|Vietnam|vn||
-|Yemen|ye||
-|Zimbabwe|zw||
 
 This list is gathered by contriubutors of The Open Data Governance Project.
 
